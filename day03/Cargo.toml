@@ -1,0 +1,8 @@
+[package]
+name = "day03"
+version = "0.1.0"
+authors = ["William Takeshi Pereira <william.takeshi@sensedata.com.br>"]
+
+[dependencies]
+regex = "1"
+itertools = "0.7"
